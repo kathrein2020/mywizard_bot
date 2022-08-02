@@ -1,0 +1,33 @@
+{
+  "properties": [
+    {
+      "name": "telegrambot.userName",
+      "type": "java.lang.String",
+      "description": "Description for telegrambot.userName."
+    },
+    {
+      "name": "telegrambot.botToken",
+      "type": "java.lang.String",
+      "description": "Description for telegrambot.botToken."
+    },
+    {
+      "name": "telegrambot.webHookPath",
+      "type": "java.lang.String",
+      "description": "Description for telegrambot.webHookPath."
+    },
+    {
+      "name": "telegrambot.proxyType",
+      "type": "java.lang.String",
+      "description": "Description for telegrambot.proxyType."
+    },
+    {
+      "name": "telegrambot.proxyHost",
+      "type": "java.lang.String",
+      "description": "Description for telegrambot.proxyHost."
+    },
+    {
+      "name": "telegrambot.proxyPort",
+      "type": "java.lang.String",
+      "description": "Description for telegrambot.proxyPort."
+    }
+  ] }
